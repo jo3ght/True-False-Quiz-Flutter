@@ -1,46 +1,29 @@
 [
   {
     "id": 1,
-    "title": "Yoga rất tốt cho cuộc sống",
+    "title": "Post 1",
+    "image": "https://i.pinimg.com/originals/26/ce/ca/26ceca884c175163ee4255e851c7723a.jpg",
     "author": "Anh Tu",
-    "desc": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading": "About yoga in modern life",
-    "content": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading2": "About yoga",
-    "content2": "Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India",
-    "dateTime": "2020",
+    "content": "Yoga, hay còn gọi là Du-già, là một họ các phương pháp luyện tâm và luyện thân cổ xưa bắt nguồn từ Ấn Độ. Các nhà nghiên cứu cho rằng, thế giới tâm linh của Ấn Độ được phổ biến chính qua khái niệm Yoga này",
+    "heading": "My yoga",
+    "body": "Yoga for beginners, experienced practitioners, and everyone in between. Pick from 6 gorgeous studios across Singapore's coolest neighbourhoods"
   },
    {
     "id": 2,
-    "title": "Yoga rất tốt cho cuộc sống",
+    "title": "Post 1",
+    "image": "https://cutewallpaper.org/21/yoga-iphone-wallpaper/50+-Beautiful-Silhouette-Wallpaper-Full-HD-Fre-Download.jpg",
     "author": "Anh Tu",
-    "desc": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading": "About yoga in modern life",
-    "content": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading2": "About yoga",
-    "content2": "Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India",
-    "dateTime": "2020",
+    "content": "Yoga, hay còn gọi là Du-già, là một họ các phương pháp luyện tâm và luyện thân cổ xưa bắt nguồn từ Ấn Độ. Các nhà nghiên cứu cho rằng, thế giới tâm linh của Ấn Độ được phổ biến chính qua khái niệm Yoga này",
+    "heading": "My yoga",
+    "body": "Yoga for beginners, experienced practitioners, and everyone in between. Pick from 6 gorgeous studios across Singapore's coolest neighbourhoods"
   },
-   {
+  {
     "id": 3,
-    "title": "Yoga rất tốt cho cuộc sống",
+    "title": "Post 1",
+    "image": "https://cutewallpaper.org/21/yoga-iphone-wallpaper/50+-Beautiful-Silhouette-Wallpaper-Full-HD-Fre-Download.jpg",
     "author": "Anh Tu",
-    "desc": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading": "About yoga in modern life",
-    "content": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading2": "About yoga",
-    "content2": "Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India",
-    "dateTime": "2020",
-  },
-   {
-    "id": 4,
-    "title": "Yoga rất tốt cho cuộc sống",
-    "author": "Anh Tu",
-    "desc": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading": "About yoga in modern life",
-    "content": "A set of specific exercises, called poses, combined with specific breathing techniques and meditation principles are the building blocks of a yoga class",
-    "heading2": "About yoga",
-    "content2": "Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India",
-    "dateTime": "2020",
-  },
+    "content": "Yoga, hay còn gọi là Du-già, là một họ các phương pháp luyện tâm và luyện thân cổ xưa bắt nguồn từ Ấn Độ. Các nhà nghiên cứu cho rằng, thế giới tâm linh của Ấn Độ được phổ biến chính qua khái niệm Yoga này",
+    "heading": "My yoga",
+    "body": "Yoga for beginners, experienced practitioners, and everyone in between. Pick from 6 gorgeous studios across Singapore's coolest neighbourhoods"
+  }
 ]
